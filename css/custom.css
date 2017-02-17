@@ -31,7 +31,7 @@ body {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-    color: #6ed3cf;
+    color: #333;
 }
 /* link */
 .navbar-default .navbar-nav > li > a {
