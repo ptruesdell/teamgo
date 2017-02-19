@@ -1,0 +1,22 @@
+{
+  "name": "teamgo",
+  "version": "1.0.0",
+  "description": "COEN161 Final Project",
+  "main": "start.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptruesdell/teamgo.git"
+  },
+  "author": "Parker Truesdell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptruesdell/teamgo/issues"
+  },
+  "homepage": "https://github.com/ptruesdell/teamgo#readme",
+  "dependencies": {
+    "chart.js": "^2.5.0"
+  }
+}
